@@ -54,7 +54,7 @@ If you're interested in contributing, testing, or providing feedback, please rea
 ---
 
 ## 📜 **License**
-This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more details.
+This project is licensed under the [BSD 3-Clause License](LICENSE). See the LICENSE file for more details.
 
 ---
 
