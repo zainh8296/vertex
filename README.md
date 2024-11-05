@@ -8,12 +8,12 @@
 ---
 
 ## 🌟 **Overview**
-**Vertex** is an AI-powered life simulation game that offers players a unique journey through dynamic life choices, relationships, and experiences. Unlike other life simulators, Vertex emphasizes realistic scenarios and personalized narratives, making every playthrough a fresh and impactful experience.
+**Vertex** is planned to be an imaginative and 
 
 ---
 
 ## 🧑‍💻 **About the Developer**
-*Hello! I’m Zain Hasnain, a high school student and game developer passionate about creating immersive and thoughtful experiences for players. Vertex reflects my vision for a life simulator that goes beyond the surface to deliver something truly unique and engaging.*
+**
 
 ---
 
@@ -59,8 +59,6 @@ This project is licensed under the [MIT License](LICENSE). See the LICENSE file 
 
 ---
 
-## 🙏 **Acknowledgments**
-Special thanks to Jericho High School and everyone supporting the development of *Vertex*. Every bit of encouragement and feedback has been invaluable in bringing this vision to life.
 
 ---
 
