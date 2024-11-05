@@ -1,6 +1,6 @@
 # **Vertex**
 
-### **Life Simulation Game**
+### 
 > **Developer:** Zain Hasnain – Jericho High School  
 > **Vision Date:** November 5, 2024  
 > **Estimated Completion:** December 23, 2024  
