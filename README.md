@@ -8,7 +8,6 @@
 ---
 
 ## 🌟 **Overview**
-**Vertex** is planned to be an imaginative and 
 
 ---
 
